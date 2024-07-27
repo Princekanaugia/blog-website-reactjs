@@ -1,8 +1,8 @@
-# React + Vite
+This Repositiory contains backend code and frontend code both for a blogging website.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+it has features like 
+1. Autentication and Authurization for SignUp/SignIn.
+2. Blog feed for all Blog in database.
+3. blog writing features.
+4. Likes and Comment section for the Blog.
+5. Profile Dashboard

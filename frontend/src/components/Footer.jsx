@@ -3,7 +3,7 @@ import SiteLogo from "../images/bloggnode_logo_1024.png"
 
 function Footer() {
   return <>
-    <section className="relative overflow-hidden bg-cyan-50 py-8 border-t-2 border-cyan-500">
+    <section className="relative overflow-hidden bg-cyan-50 py-8 border-t-2 border-cyan-100 border shadow-inner">
       <div className="container relative z-10 mx-auto px-4">
         <div className="-m-8 flex flex-wrap items-center justify-between">
           <div className="w-auto p-8">
